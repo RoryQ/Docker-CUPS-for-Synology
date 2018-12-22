@@ -19,5 +19,5 @@ $ /opt/bin/ipkg install usbutils
 ```console
 $ scp cups_start.sh admin@diskstation:/volume1/docker/cups/
 $ scp setup.sh admin@diskstation:/volume1/docker/cups/
-$ scp linux-bprinter-installer-2.2.0-1 admin@diskstation:/volume1/docker/cups/
+$ scp linux-brprinter-installer-2.2.0-1 admin@diskstation:/volume1/docker/cups/
 ```
